@@ -1,0 +1,65 @@
+Objective:
+To analyze the data provided by Kenvue Inc. and develop a solution to optimize trade spend while identifying and promoting specific need states at the right times.
+
+Team Structure:
+The members of our group consist of Inshaal Butt, Tyra Chung, and Bryanah Gillis.
+
+Initial division of work:
+Data cleaning - Tyra (lead) + Inshaal
+Data analysis - Bryanah (lead) + Inshaal + Tyra (we believe it's important for all of us to learn/be exposed to this part!)
+Determining need state - Bryanah (lead) + Tyra
+Data visualization - Inshaal (lead) + Tyra
+Presentation slides - Inshaal (lead) + Bryanah
+
+Approach:
+1. Data Exploration:
+Download the provided data from Kenvue Inc.
+Perform initial exploratory data analysis to understand the structure, relationships, and potential patterns within the dataset.
+
+2. Data Cleaning and Preprocessing:
+Handle missing or inconsistent data to ensure the accuracy of the analysis.
+Normalize and standardize data for consistency in measurements.
+Identify and handle outliers that may impact the analysis.
+
+3. Data Analysis:
+Utilize statistical analysis to identify trends and correlations between variables.
+Group the need states and analyze their impact on Total Sales and POS Revenue.
+Investigate the relationships between trade spend, need states, and sales.
+
+4. Further Investigate 1 Need State
+Use web-scraping to gather and compare competitor trends across that specific need state
+Conduct an inventory turnover rate analysis
+Determine what insights the trade spend reveals for that need state
+
+5. Optimizing Trade Spend:
+Develop algorithms or models to optimize trade spend based on historical data and identified patterns.
+Consider machine learning techniques for predictive analysis, taking into account seasonal trends and customer behaviour.
+Determine the most effective times to promote specific need states to maximize sales.
+
+6. Client-Focused Recommendations:
+Create actionable insights and recommendations for Kenvue Inc. based on the analysis.
+Provide clear guidelines on when and how to promote specific need states.
+Suggest adjustments to trade spend strategies to maximize ROI.
+
+7. Go-to Market Strategy
+Using the insights, our team will create a go-to market strategy that accompanies our findings from the questions.
+The insights will be presented using Tableau and/or Powerpoint
+
+Data Set:
+The project will use the data provided by Kenvue Inc., including POS Factory $, Need State, Total Sales, DC Amount, Store Amt on Hand, and Total Trade Spend. This dataset will serve as the foundation for our analysis and optimization strategies.
+
+External Data:
+While the primary analysis will be based on the provided dataset, external market data will be considered to enrich the understanding of industry trends, competitive landscape, and consumer behaviour.
+
+Technologies:
+1. Programming Language: Python with its extensive data analysis libraries.
+2. Data Analysis: Pandas for data manipulation and analysis, NumPy for numerical operations.
+3. Statistical Analysis: SciPy for statistical functions.
+5. Visualization: Tableau and Powerpoint for creating visual representations of the data.
+6. Collaboration: GitHub for version control and collaboration.
+
+Documentation:
+Documentation of the code and analysis process will be maintained to ensure transparency and replicability.
+
+Presentation:
+A final presentation will be prepared to communicate the findings, optimization strategies, and recommendations to the client.
