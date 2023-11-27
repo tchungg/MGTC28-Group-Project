@@ -6,20 +6,28 @@
 
 **Initial Project Plan:** https://github.com/tyrachung/MGTC28-Group-Project/blob/40485ec1c73dbfe57b6e4acf146f9e71e710bed0/Initial%20Project%20Plan 
 
+
+Below are links that connect to each notebook or csv file that has been uploaded to the main branch for better clarity of each stage in this project.
+
+
 **Libraries/Technologies Used**
+
+
 
 **Data Sources** 
 
 Kenvue provided a dataset that has been cleaned to correct any inconsistencies to prepare it for our analyses. 
 
+[How We Cleaned the Data](./) and [All Cleaned Files](./)
+
 
 [Cleaned Data Set](./
 
+
 [Combined Data Set Notebook](./https://github.com/tchungg/MGTC28_Group_Project/blob/dcc4d330a8f1368e4efcfab04ed6c83cdca77423/combined_dataset_notebook.ipynb)
 
-**Overall Insights**
 
-
+                              Overall Insights
 
 
 **Seasonal Trends**
@@ -46,14 +54,19 @@ Compared Need States 1-5
 NEED NOTEBOOK WITH ANALYSIS
 
 
-**Need State 3 Further Analyses**
-Based on the Total Sales and Trade Spend anaysis, our group decided to further investigate Need State 3 for the folowing reasons:
+                          Need State 3 Further Analyses
+
+
+Based on the Total Sales and Trade Spend anaysis, our group decided to further investigate **Need State 3** for the folowing reasons:
 
 - Need state 3 has the lowest total sales
 
 - Need state 3 has the lowest return on trade spend at 33.92%
 
 - Need state 3 has the largest decrease in sales from 2022 - 2023 at a decline of $2.7M
+
+
+To further analyze this need state, we have calculated the inventory turnover rate, sales channel optimization & investigated the trade spend to gather insights. 
 
 
 **Inventory Turnover Rate**
