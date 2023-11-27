@@ -15,7 +15,7 @@ Below are links that connect to each notebook or csv file that has been uploaded
 
 Technologies: Python, Tableau, Canva 
 
-Libraries: Pandas, NumPy, SciPy, Seabirn, Matplotlib
+Libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib
 
 
 **Data Sources** 
