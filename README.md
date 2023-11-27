@@ -1,6 +1,7 @@
-# MGTC28-Group-Project
-![kenvue logo](https://github.com/tchungg/MGTC28-Group-Project/assets/145488074/fe11db65-0e37-43a4-a914-9c25b97bb4fa)
+![Kenvue_logo](https://github.com/tchungg/MGTC28_Group_Project/assets/145488074/2b79478a-0a87-406b-8061-8c56ff78093e)
 
+
+<p align="center"><b>MGTC28 Group Project</b></p>
 
 **Goal:** Analyze the data provided by Kenvue Inc. and develop a solution to optimize trade spend while identifying and promoting specific need states at the right times.
 
@@ -23,8 +24,8 @@ Kenvue provided a dataset that has been cleaned to correct any inconsistencies t
 [How We Cleaned the Data](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaned%20Data%20Sets)
 
 
-
-<p align="center"><b>Overall Insights</b></p>             
+          
+<img width="654" alt="Screenshot 2023-11-27 at 12 39 01 AM" src="https://github.com/tchungg/MGTC28_Group_Project/assets/145488074/ca3840cf-d56b-4ac3-931f-9f005c41678b">
 
 
 **Seasonal Trends**
@@ -50,8 +51,8 @@ Compared Need States 1-5
 
 NEED NOTEBOOK WITH ANALYSIS
 
-
-<p align="center"><b>Need State 3 Further Analysis</b></p>                            
+                           
+<img width="664" alt="Screenshot 2023-11-27 at 12 42 03 AM" src="https://github.com/tchungg/MGTC28_Group_Project/assets/145488074/5693e6ac-2e28-4676-ad38-4e51ba925a0c">
 
 
 Based on the Total Sales and Trade Spend anaysis, our group decided to further investigate **Need State 3** for the folowing reasons:
