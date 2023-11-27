@@ -68,7 +68,7 @@ Based on the Total Sales and Trade Spend anaysis, our group decided to further i
 To further analyze this need state, we have calculated the inventory turnover rate, sales channel optimization & investigated the trade spend to gather insights. 
 
 
-**Inventory Turnover Rate**
+**Inventory Turnover Rate Analysis**
 NOTEBOOK MISSING
 
 
