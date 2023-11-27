@@ -42,10 +42,10 @@ See Notebook Here:
 
 Compared Need States 1-5
 
-[Total Sales Analysis](./https://github.com/tchungg/MGTC28_Group_Project/tree/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Total%20Sales_Need%20State_Line%20Graphs) 
+[Total Sales Analysis Notebook](./https://github.com/tchungg/MGTC28_Group_Project/tree/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Total%20Sales_Need%20State_Line%20Graphs) 
 
 
-[Trade Spend Analysis](./https://github.com/tchungg/MGTC28_Group_Project/blob/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
+[Trade Spend Analysis Notebook](./https://github.com/tchungg/MGTC28_Group_Project/blob/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
 
 
 **Overall Inventory**
