@@ -4,7 +4,7 @@
 
 **Goal:** Analyze the data provided by Kenvue Inc. and develop a solution to optimize trade spend while identifying and promoting specific need states at the right times.
 
-**Initial Project Plan:** https://github.com/tyrachung/MGTC28-Group-Project/blob/40485ec1c73dbfe57b6e4acf146f9e71e710bed0/Initial%20Project%20Plan 
+**Initial Project Plan:** [Here](./https://github.com/tchungg/MGTC28_Group_Project/blob/8eea5b3586b69d206caa242fd4aec53a8f7da079/Initial%20Project%20Plan)
 
 
 Below are links that connect to each notebook or csv file that has been uploaded to the main branch for better clarity of each stage in this project.
@@ -13,21 +13,18 @@ Below are links that connect to each notebook or csv file that has been uploaded
 **Libraries/Technologies Used**
 
 
+numpy, pandas, matplotlib, matpotlib.pyplot, seaborn,
+
 
 **Data Sources** 
 
 Kenvue provided a dataset that has been cleaned to correct any inconsistencies to prepare it for our analyses. 
 
-[How We Cleaned the Data](./) and [All Cleaned Files](./)
+[How We Cleaned the Data](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaned%20Data%20Sets)
 
 
-[Cleaned Data Set](./
 
-
-[Combined Data Set Notebook](./https://github.com/tchungg/MGTC28_Group_Project/blob/dcc4d330a8f1368e4efcfab04ed6c83cdca77423/combined_dataset_notebook.ipynb)
-
-
-                              Overall Insights
+<p align="center"><b>Overall Insights</b></p>             
 
 
 **Seasonal Trends**
@@ -54,7 +51,7 @@ Compared Need States 1-5
 NEED NOTEBOOK WITH ANALYSIS
 
 
-                          Need State 3 Further Analyses
+<p align="center"><b>Need State 3 Further Analysis</b></p>                            
 
 
 Based on the Total Sales and Trade Spend anaysis, our group decided to further investigate **Need State 3** for the folowing reasons:
