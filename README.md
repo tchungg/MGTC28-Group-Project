@@ -44,7 +44,7 @@ Compared Need States 1-5
 [Total Sales Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/tree/main/Total%20Sales_Need%20State_Line%20Graphs) 
 
 
-[Trade Spend Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Trade%20Spend%20%26%20Need%20State%20Seasonality%20(1).ipynb)
+[Trade Spend Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/0343b0e123adda2599bc2ca4072f1116c559df8e/Other/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
 
 
 **Overall Inventory**
