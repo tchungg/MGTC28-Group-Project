@@ -29,7 +29,6 @@ Kenvue provided a dataset that has been cleaned to correct any inconsistencies t
 
 
 **Seasonal Trends**
-MISSING NOTEBOOK
 
 To identify the seasonal trends, Factory POS and Total Inventory data were used to compare across all need states. 
 
