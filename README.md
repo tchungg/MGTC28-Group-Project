@@ -73,9 +73,8 @@ To further analyze this need state, we have calculated the inventory turnover ra
 
 
 **Sales Optimization**
-NOTEBOOK MISSING
 
-[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Sales%20Optimization.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/dd4fdb3bebcd1d4864835c78871319e3bbea3bb2/Need%20State%203%20Files/Need%20State%203_Sales%20Optimization.csv)
 
 **Trade Insights**
 
