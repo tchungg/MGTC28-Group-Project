@@ -21,7 +21,7 @@ Libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib
 
 Kenvue provided a dataset that has been cleaned to correct any inconsistencies to prepare it for our analyses. 
 
-[How We Cleaned the Data](https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaned%20Data%20Sets)
+[How We Cleaned the Data](https://github.com/tchungg/MGTC28_Group_Project/tree/main/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](https://github.com/tchungg/MGTC28_Group_Project/tree/main/Cleaned%20Data%20Sets)
 
 
           
@@ -41,10 +41,10 @@ See Notebook Here:
 
 Compared Need States 1-5
 
-[Total Sales Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/tree/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Total%20Sales_Need%20State_Line%20Graphs) 
+[Total Sales Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/tree/main/Total%20Sales_Need%20State_Line%20Graphs) 
 
 
-[Trade Spend Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
+[Trade Spend Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Trade%20Spend%20%26%20Need%20State%20Seasonality%20(1).ipynb)
 
 
 **Overall Inventory**
