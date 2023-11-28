@@ -7,7 +7,6 @@
 
 **Initial Project Plan:** [Here](./https://github.com/tchungg/MGTC28_Group_Project/blob/8eea5b3586b69d206caa242fd4aec53a8f7da079/Initial%20Project%20Plan)
 
-
 Below are links that connect to each notebook or csv file that has been uploaded to the main branch for better clarity of each stage in this project.
 
 
