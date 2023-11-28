@@ -80,10 +80,10 @@ NOTEBOOK MISSING
 **Trade Insights**
 
 
-[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Trade%20Insights_Notebook.ipynb)
+[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/cedf75a836c54778a35cd87ca65ab5e4760dfa3a/Need%20State%203%20Files/Need%20State%203_Trade%20Insights_Notebook.ipynb)
 
 
-[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Trade%20Insights.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203%20Files/Need%20State%203_Trade%20Insights.csv)
 
 
 
