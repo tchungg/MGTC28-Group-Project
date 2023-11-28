@@ -76,15 +76,15 @@ NOTEBOOK MISSING
 **Sales Optimization**
 NOTEBOOK MISSING
 
-[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Sales%20Optimization.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Sales%20Optimization.csv)
 
 **Trade Insights**
 
 
-[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights_Notebook.ipynb)
+[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Trade%20Insights_Notebook.ipynb)
 
 
-[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Need%20State%203_Trade%20Insights.csv)
 
 
 
