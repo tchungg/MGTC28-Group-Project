@@ -5,7 +5,7 @@
 
 **Goal:** Analyze the data provided by Kenvue Inc. and develop a solution to optimize trade spend while identifying and promoting specific need states at the right times.
 
-**Initial Project Plan:** [Here](./https://github.com/tchungg/MGTC28_Group_Project/blob/main/Initial%20Project%20Plan)
+**Initial Project Plan:** [Here](https://github.com/tchungg/MGTC28_Group_Project/blob/main/Initial%20Project%20Plan)
 
 Below are links that connect to each notebook or csv file that has been uploaded to the main branch for better clarity of each stage in this project.
 
@@ -21,7 +21,7 @@ Libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib
 
 Kenvue provided a dataset that has been cleaned to correct any inconsistencies to prepare it for our analyses. 
 
-[How We Cleaned the Data](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](./https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaned%20Data%20Sets)
+[How We Cleaned the Data](https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaning%20Data%20Set%20Notebooks) and [All Cleaned Files](https://github.com/tchungg/MGTC28_Group_Project/tree/8eea5b3586b69d206caa242fd4aec53a8f7da079/Cleaned%20Data%20Sets)
 
 
           
@@ -41,10 +41,10 @@ See Notebook Here:
 
 Compared Need States 1-5
 
-[Total Sales Analysis Notebook](./https://github.com/tchungg/MGTC28_Group_Project/tree/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Total%20Sales_Need%20State_Line%20Graphs) 
+[Total Sales Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/tree/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Total%20Sales_Need%20State_Line%20Graphs) 
 
 
-[Trade Spend Analysis Notebook](./https://github.com/tchungg/MGTC28_Group_Project/blob/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
+[Trade Spend Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/c8e8fa8b3a793fc1ed81e3ec73065be988500188/Trade%20Spend%20%26%20Need%20State%20Seasonality.ipynb)
 
 
 **Overall Inventory**
@@ -71,20 +71,20 @@ To further analyze this need state, we have calculated the inventory turnover ra
 NOTEBOOK MISSING
 
 
-[CSV File](./https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Sales%20Optimization.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Sales%20Optimization.csv)
 
 **Sales Optimization**
 NOTEBOOK MISSING
 
-[CSV File](./https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Sales%20Optimization.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Sales%20Optimization.csv)
 
 **Trade Insights**
 
 
-[Notebook](./https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights_Notebook.ipynb)
+[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights_Notebook.ipynb)
 
 
-[CSV File](./https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights.csv)
+[CSV File](https://github.com/tchungg/MGTC28_Group_Project/blob/da6c7b2726b03e44f4725c061372dcd79a2a6aa9/Need%20State%203_Trade%20Insights.csv)
 
 
 
