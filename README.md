@@ -5,7 +5,7 @@
 
 **Goal:** Analyze the data provided by Kenvue Inc. and develop a solution to optimize trade spend while identifying and promoting specific need states at the right times.
 
-**Initial Project Plan:** [Here](./https://github.com/tchungg/MGTC28_Group_Project/blob/8eea5b3586b69d206caa242fd4aec53a8f7da079/Initial%20Project%20Plan)
+**Initial Project Plan:** [Here](./https://github.com/tchungg/MGTC28_Group_Project/blob/main/Initial%20Project%20Plan)
 
 Below are links that connect to each notebook or csv file that has been uploaded to the main branch for better clarity of each stage in this project.
 
