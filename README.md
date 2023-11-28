@@ -49,7 +49,7 @@ Compared Need States 1-5
 
 **Overall Inventory**
 
-NEED NOTEBOOK WITH ANALYSIS
+[Inventory Analysis Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/ef7b7b0234f504e7a32c886007089516eb6c80b8/Other/Overall%20Inventory%20Analysis%20Notebook.ipynb)
 
                            
 <img width="664" alt="Screenshot 2023-11-27 at 12 42 03 AM" src="https://github.com/tchungg/MGTC28_Group_Project/assets/145488074/5693e6ac-2e28-4676-ad38-4e51ba925a0c">
