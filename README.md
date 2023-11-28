@@ -68,8 +68,9 @@ To further analyze this need state, we have calculated the inventory turnover ra
 
 
 **Inventory Turnover Rate Analysis**
-NOTEBOOK MISSING
-[[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/ab32ca621cf07ed842d99a848318216fa6d185b1/Inventory%20Turnover%20Rate%20Analysis.ipynb)]
+
+
+[Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/ab32ca621cf07ed842d99a848318216fa6d185b1/Inventory%20Turnover%20Rate%20Analysis.ipynb)]
 
 
 **Sales Optimization**
