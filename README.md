@@ -31,7 +31,7 @@ Kenvue provided a dataset that has been cleaned to correct any inconsistencies t
 **Seasonal Trends**
 MISSING NOTEBOOK
 
-To identify the seasonal trends, Factory POS and Total Inventory data was used to compare across all need states. 
+To identify the seasonal trends, Factory POS and Total Inventory data were used to compare across all need states. 
 
 
 See Notebook Here: 
@@ -55,7 +55,7 @@ NEED NOTEBOOK WITH ANALYSIS
 <img width="664" alt="Screenshot 2023-11-27 at 12 42 03 AM" src="https://github.com/tchungg/MGTC28_Group_Project/assets/145488074/5693e6ac-2e28-4676-ad38-4e51ba925a0c">
 
 
-Based on the Total Sales and Trade Spend anaysis, our group decided to further investigate **Need State 3** for the folowing reasons:
+Based on the Total Sales and Trade Spend analysis, our group decided to further investigate **Need State 3** for the following reasons:
 
 - Need state 3 has the lowest total sales
 
@@ -64,11 +64,10 @@ Based on the Total Sales and Trade Spend anaysis, our group decided to further i
 - Need state 3 has the largest decrease in sales from 2022 - 2023 at a decline of $2.7M
 
 
-To further analyze this need state, we have calculated the inventory turnover rate, sales channel optimization & investigated the trade spend to gather insights. 
+To further analyze this need state, we have calculated the inventory turnover rate, and sales channel optimization & investigated the trade spend to gather insights. 
 
 
 **Inventory Turnover Rate Analysis**
-
 
 [Notebook](https://github.com/tchungg/MGTC28_Group_Project/blob/ab32ca621cf07ed842d99a848318216fa6d185b1/Inventory%20Turnover%20Rate%20Analysis.ipynb)]
 
